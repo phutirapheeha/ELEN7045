@@ -1,1 +1,43 @@
 c:\users\phuti\documents\visual studio 2012\Projects\DodgerGame\DodgerGame\bin\Debug\DodgerGame.exe.config
+c:\users\phuti\documents\visual studio 2012\Projects\DodgerGame\DodgerGame\obj\Debug\DodgerGame.csprojResolveAssemblyReference.cache
+c:\users\phuti\documents\visual studio 2012\Projects\DodgerGame\DodgerGame\obj\Debug\DodgerGame.DodgerGame.resources
+c:\users\phuti\documents\visual studio 2012\Projects\DodgerGame\DodgerGame\obj\Debug\DodgerGame.Properties.Resources.resources
+c:\users\phuti\documents\visual studio 2012\Projects\DodgerGame\DodgerGame\obj\Debug\DodgerGame.csproj.GenerateResource.Cache
+c:\users\phuti\documents\visual studio 2012\Projects\DodgerGame\DodgerGame\bin\Debug\DodgerGame.exe
+c:\users\phuti\documents\visual studio 2012\Projects\DodgerGame\DodgerGame\bin\Debug\DodgerGame.pdb
+c:\users\phuti\documents\visual studio 2012\Projects\DodgerGame\DodgerGame\obj\Debug\DodgerGame.exe
+c:\users\phuti\documents\visual studio 2012\Projects\DodgerGame\DodgerGame\obj\Debug\DodgerGame.pdb
+C:\Users\bbdnet0906\Downloads\Design\DodgerGame\DodgerGame\DodgerGame\bin\Debug\DodgerGame.exe.config
+C:\Users\bbdnet0906\Downloads\Design\DodgerGame\DodgerGame\DodgerGame\obj\Debug\DodgerGame.exe
+C:\Users\bbdnet0906\Downloads\Design\DodgerGame\DodgerGame\DodgerGame\obj\Debug\DodgerGame.pdb
+C:\Users\bbdnet0906\Downloads\Design\DodgerGame\DodgerGame\DodgerGame\bin\Debug\DodgerGame.exe
+C:\Users\bbdnet0906\Downloads\Design\DodgerGame\DodgerGame\DodgerGame\bin\Debug\DodgerGame.pdb
+C:\Users\bbdnet0906\Downloads\Design\DodgerGame\DodgerGame\DodgerGame\obj\Debug\DodgerGame.csprojResolveAssemblyReference.cache
+C:\Users\bbdnet0906\Downloads\Design\DodgerGame\DodgerGame\DodgerGame\obj\Debug\DodgerGame.DodgerGame.resources
+C:\Users\bbdnet0906\Downloads\Design\DodgerGame\DodgerGame\DodgerGame\obj\Debug\DodgerGame.Properties.Resources.resources
+C:\Users\bbdnet0906\Downloads\Design\DodgerGame\DodgerGame\DodgerGame\obj\Debug\DodgerGame.csproj.GenerateResource.Cache
+C:\Users\bbdnet0906\Downloads\Design\DodgerGame\DodgerGame\DodgerGame\bin\Debug\rain.bmp
+C:\Users\bbdnet0906\Downloads\Design\DodgerGame\DodgerGame\DodgerGame\bin\Debug\farm.png
+C:\Users\bbdnet0906\Downloads\Design\DodgerGame\DodgerGame\DodgerGame\bin\Debug\small-jack-left1.png
+C:\Users\bbdnet0906\Downloads\Design\DodgerGame\DodgerGame\DodgerGame\bin\Debug\small-jack-right1.png
+C:\Users\bbdnet0906\Downloads\Design\DodgerGame\DodgerGame\DodgerGame\bin\Debug\rain.png
+C:\Users\bbdnet0906\Downloads\Design\DodgerGame\DodgerGame\DodgerGame\bin\Debug\rain2.png
+C:\Users\bbdnet0906\Downloads\Design\DodgerGame\DodgerGame\DodgerGame\bin\Debug\small-jack-left2.png
+C:\Users\bbdnet0906\Downloads\Design\DodgerGame\DodgerGame\DodgerGame\bin\Debug\small-jack-right2.png
+C:\dev\dotnetworkspace\DodgerGame\DodgerGame\bin\Debug\DodgerGame.exe.config
+C:\dev\dotnetworkspace\DodgerGame\DodgerGame\obj\Debug\DodgerGame.exe
+C:\dev\dotnetworkspace\DodgerGame\DodgerGame\obj\Debug\DodgerGame.pdb
+C:\dev\dotnetworkspace\DodgerGame\DodgerGame\bin\Debug\rain2.png
+C:\dev\dotnetworkspace\DodgerGame\DodgerGame\bin\Debug\small-jack-left2.png
+C:\dev\dotnetworkspace\DodgerGame\DodgerGame\bin\Debug\small-jack-right2.png
+C:\dev\dotnetworkspace\DodgerGame\DodgerGame\bin\Debug\rain.png
+C:\dev\dotnetworkspace\DodgerGame\DodgerGame\bin\Debug\small-jack-left1.png
+C:\dev\dotnetworkspace\DodgerGame\DodgerGame\bin\Debug\small-jack-right1.png
+C:\dev\dotnetworkspace\DodgerGame\DodgerGame\bin\Debug\farm.png
+C:\dev\dotnetworkspace\DodgerGame\DodgerGame\bin\Debug\rain.bmp
+C:\dev\dotnetworkspace\DodgerGame\DodgerGame\bin\Debug\DodgerGame.exe
+C:\dev\dotnetworkspace\DodgerGame\DodgerGame\bin\Debug\DodgerGame.pdb
+C:\dev\dotnetworkspace\DodgerGame\DodgerGame\obj\Debug\DodgerGame.csprojResolveAssemblyReference.cache
+C:\dev\dotnetworkspace\DodgerGame\DodgerGame\obj\Debug\DodgerGame.DodgerGame.resources
+C:\dev\dotnetworkspace\DodgerGame\DodgerGame\obj\Debug\DodgerGame.Properties.Resources.resources
+C:\dev\dotnetworkspace\DodgerGame\DodgerGame\obj\Debug\DodgerGame.csproj.GenerateResource.Cache
