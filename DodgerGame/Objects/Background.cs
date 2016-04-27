@@ -12,7 +12,7 @@ namespace DodgerGame.Objects
         public Background(string imageFilename) : base(imageFilename)
         { }
 
-        protected override Point GetPosition()
+        public override Point GetPosition()
         {
             return new Point(0, 0);
         }

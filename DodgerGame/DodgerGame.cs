@@ -22,8 +22,14 @@ namespace DodgerGame
             this.Shown += DodgerGame_Shown;
             this.Height = 600;
             this.Width = 800;
+
             InitializeComponent();
+
+            _dodgerWorld = new DodgerWorld(this.Width, this.Height);
+            this.Controls.Add(_dodgerWorld);
+
             _gameState = GameState.Loaded;
+            
             GameTimer.Interval = 50;
             GameTimer.Enabled = true;
             GameTimer.Start();
@@ -32,15 +38,48 @@ namespace DodgerGame
 
         void DodgerGame_Shown(object sender, EventArgs e)
         {
-            _dodgerWorld = new DodgerWorld();
-            this.Controls.Clear();
-            this.Controls.Add(_dodgerWorld.dodgerWorld);
+            _dodgerWorld.Refresh();
+        }
+
+        private void EndGame()
+        {
+            _dodgerWorld.Refresh();
+        }
+
+        private void StartNewGame()
+        {
+            _dodgerWorld = new DodgerWorld(this.Width, this.Height);
+            this.Controls.Add(_dodgerWorld);
+            _gameState = GameState.Loaded;
+
+            GameTimer.Interval = 50;
+            GameTimer.Enabled = true;
+            GameTimer.Start();
+            _gameState = GameState.Running;
+        }
+
+        private void RefreshGame()
+        {
+
         }
 
         private void GameTimer_Tick(object sender, EventArgs e)
         {
             _dodgerWorld.DropRain();
-            _dodgerWorld.RenderWorld();
+
+            if (!_dodgerWorld.DetectCollision())
+                _dodgerWorld.Refresh();
+            else
+            {
+                GameTimer.Stop();
+                _dodgerWorld.Dispose();
+
+                DialogResult result = MessageBox.Show("Play Again?", "Game Over", MessageBoxButtons.YesNo);
+                if (result == System.Windows.Forms.DialogResult.Yes)
+                    StartNewGame();
+                else
+                    this.Close();
+            }
         }
 
         private void DodgerGame_KeyDown(object sender, KeyEventArgs e)

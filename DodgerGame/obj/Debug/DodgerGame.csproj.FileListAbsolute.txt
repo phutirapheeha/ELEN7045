@@ -41,3 +41,15 @@ C:\dev\dotnetworkspace\DodgerGame\DodgerGame\obj\Debug\DodgerGame.csprojResolveA
 C:\dev\dotnetworkspace\DodgerGame\DodgerGame\obj\Debug\DodgerGame.DodgerGame.resources
 C:\dev\dotnetworkspace\DodgerGame\DodgerGame\obj\Debug\DodgerGame.Properties.Resources.resources
 C:\dev\dotnetworkspace\DodgerGame\DodgerGame\obj\Debug\DodgerGame.csproj.GenerateResource.Cache
+C:\Users\Phuti\Documents\CPD\DodgerGame3\DodgerGame\DodgerGame\bin\Debug\DodgerGame.exe.config
+C:\Users\Phuti\Documents\CPD\DodgerGame3\DodgerGame\DodgerGame\obj\Debug\DodgerGame.exe
+C:\Users\Phuti\Documents\CPD\DodgerGame3\DodgerGame\DodgerGame\obj\Debug\DodgerGame.pdb
+C:\Users\Phuti\Documents\CPD\DodgerGame3\DodgerGame\DodgerGame\bin\Debug\DodgerGame.exe
+C:\Users\Phuti\Documents\CPD\DodgerGame3\DodgerGame\DodgerGame\bin\Debug\DodgerGame.pdb
+C:\Users\Phuti\Documents\CPD\DodgerGame3\DodgerGame\DodgerGame\obj\Debug\DodgerGame.DodgerGame.resources
+C:\Users\Phuti\Documents\CPD\DodgerGame3\DodgerGame\DodgerGame\obj\Debug\DodgerGame.Properties.Resources.resources
+C:\Users\Phuti\Documents\CPD\DodgerGame3\DodgerGame\DodgerGame\obj\Debug\DodgerGame.csproj.GenerateResource.Cache
+C:\Users\Phuti\Documents\CPD\DodgerGame3\DodgerGame\DodgerGame\obj\Debug\DodgerGame.csprojResolveAssemblyReference.cache
+C:\Users\Phuti\Documents\CPD\DodgerGame3\DodgerGame\DodgerGame\bin\Debug\Images\dodger1.png
+C:\Users\Phuti\Documents\CPD\DodgerGame3\DodgerGame\DodgerGame\bin\Debug\Images\lanscape_2.png
+C:\Users\Phuti\Documents\CPD\DodgerGame3\DodgerGame\DodgerGame\bin\Debug\Images\rain2.png

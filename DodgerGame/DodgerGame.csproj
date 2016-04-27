@@ -53,12 +53,18 @@
     </Compile>
     <Compile Include="Interface\IMovableObject.cs" />
     <Compile Include="Interface\IPosition.cs" />
+    <Compile Include="Interface\IRenderEngine.cs" />
     <Compile Include="Objects\Background.cs" />
+    <Compile Include="Objects\Extensions.cs" />
+    <Compile Include="Objects\GdiPlusRenderEngine.cs" />
     <Compile Include="Objects\Player.cs" />
-    <Compile Include="Objects\DodgerWorld.cs" />
+    <Compile Include="Objects\DodgerWorld.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Objects\MovableObject.cs" />
     <Compile Include="Objects\Position.cs" />
     <Compile Include="Objects\RainDrop.cs" />
+    <Compile Include="Objects\VisualObject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="DodgerGame.resx">
@@ -73,6 +79,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="DodgerGameDesign.cd" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -87,34 +94,18 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="9cRg7qEgi.png" />
-    <EmbeddedResource Include="rain2.png">
+    <EmbeddedResource Include="Images\dodger1.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="small-jack-left2.png">
+    <EmbeddedResource Include="Images\lanscape_2.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="small-jack-right2.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="rain.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="small-jack-left1.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="small-jack-right1.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="farm.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="rain.bmp">
+    <EmbeddedResource Include="Images\rain2.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Resources\" />
+    <Content Include="Images\About the images.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
